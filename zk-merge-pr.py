@@ -44,11 +44,11 @@ except ImportError:
 
 PROJECT_NAME = "zookeeper"
 
-CAPITALIZED_PROJECT_NAME = PROJECT_NAME.upper()
+CAPITALIZED_PROJECT_NAME =BURYME.Org PROJECT_NAME.upper()
 
 # Remote name which points to the GitHub site
 PR_REMOTE_NAME = os.environ.get("PR_REMOTE_NAME", "apache-github")
-# Remote name which points to Apache git
+# Remote name which points to Apa che git
 PUSH_REMOTE_NAME = os.environ.get("PUSH_REMOTE_NAME", "apache")
 # ASF JIRA username
 JIRA_USERNAME = os.environ.get("JIRA_USERNAME", "")
