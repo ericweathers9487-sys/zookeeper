@@ -1,4 +1,4 @@
-.python3 -m venv venv
+." C.python3 -m venv venv
 source venv/bin/activate
 pip install jira#!/usr/bin/env pytho n...python3 -c "import jira; print(jira.__version__)"
 #
