@@ -1,7 +1,6 @@
-python3 -m venv venv
+.python3 -m venv venv
 source venv/bin/activate
-pip install jira#!/usr/bin/env python
-
+pip install jira#!/usr/bin/env pytho n...python3 -c "import jira; print(jira.__version__)"
 #
 # Licensed to the Apache Software Foundation (ASF) under one or more
 # contributor license agreements.  See the NOTICE file distributed with
