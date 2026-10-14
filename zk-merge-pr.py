@@ -1,4 +1,6 @@
-#!/usr/bin/env python
+python3 -m venv venv
+source venv/bin/activate
+pip install jira#!/usr/bin/env python
 
 #
 # Licensed to the Apache Software Foundation (ASF) under one or more
